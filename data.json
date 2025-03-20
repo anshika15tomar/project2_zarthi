@@ -1,0 +1,1052 @@
+[
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 56,
+        "service_description": "Our Application Testing Service offers comprehensive functional testing for web and mobile applications. We handle everything from requirement gathering and planning to ensure alignment with business needs, \nto creating detailed test cases, including positive, negative, false positive, and false negative scenarios. Our team executes these test cases to thoroughly validate application functionality, identify defects early, and ensure smooth performance.",
+        "service_name": "Application Testing Service",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf85b"
+    },
+    {
+        "practice_name": "DevOps",
+        "practice_status": "Internal & External",
+        "price": 86,
+        "service_description": "Under this Microservice, our Service Leads manage Pritunl VPN services, including deployment, user management (create/update/delete users), decommissioning outdated setups, configuration backup and restore, monitoring and logging, applying security updates, and integrating with Single Sign-On (SSO) for secure access.",
+        "service_name": "Pritunl Service",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf32e"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 88,
+        "service_description": "Our Backup Service offers a range of actions such as creating, managing, and restoring data backups. Our \nService Leads ensure the creation of backup policies that define the frequency, timing, and retention duration of backups. Additionally, this Service supports point-in-time snapshots, capturing your system’s state at a specific time. Our Backup Service also includes operations for restoring data to a new location or back to the original.",
+        "service_name": "Backup",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf843"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 88,
+        "service_description": "Our Database Services are designed to optimize database performance, enhance security, and ensure seamless cloud management. We handle tasks like database creation, backup, restoration, scheduled jobs, and logging configuration to maintain robust operations. Additionally, we apply patches, manage updates, and offer version control to meet your application’s evolving requirements. Our Service Leads ensure your data is secure, compliant, and always available for smooth operational continuity.",
+        "service_name": "Database Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf700"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 88,
+        "service_description": "Our Functions Service focuses on enhancing the overall efficiency of your cloud through serverless compute operations as we provide end-to-end automation of manual and repetitive tasks in your cloud. Our Service Leads follow industry best practices to deliver outcomes that cover the entire lifecycle such as function provisioning, reconfiguration, and deprovisioning.",
+        "service_name": "Functions",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8a5"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 88,
+        "service_description": "Our Operating System Operations Service ensure your Windows and Linux systems are secure, up-to-date, \nand running efficiently. We handle patch installations, job scheduling, user management, package installations and removals, OS upgrades, and configuration management. Our Service Leads implement these measures according to industry best practices.",
+        "service_name": "Operating System Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf771"
+    },
+    {
+        "practice_name": "DevOps",
+        "practice_status": "Internal & External",
+        "price": 112,
+        "service_description": "At Zarthi, our Service Leads manage the deployment, scaling, and maintenance of Kubernetes clusters on AWS EKS. This includes node group upgrades, cluster version updates, networking configurations, and security best practices. Additionally, we ensure seamless integrations with AWS services, monitoring, and high availability for efficient workload orchestration.",
+        "service_name": "AWS EKS services",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf30e"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Block Storage Professional Service covers the entire range of storage operations such as upgrade, downgrade, delete, etc. to ensure you have an optimal cloud. Our Service Leads strictly follow industry best practices to ensure that the Service is delivered on time and your cloud remains safe, secure, and at its optimal performance. ",
+        "service_name": "Block Storage",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf89c"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our File Storage Service offers a range of storage options that are both accessible and scalable. We provision, configure, and manage File Storage to ensure efficient, secure, and scalable file sharing and storage in your cloud. This Service also includes creating and attaching File Storage to resources, modifying storage configurations, and managing the lifecycle of the storage resources. ",
+        "service_name": "File Storage",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf839"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Network Access Control service secures your cloud environment by implementing and managing network access control mechanisms. This includes creating and configuring security groups and Network Access Control Lists (NACLs) for resources, tuning inbound and outbound network traffic rules based on criteria such as source, destination, port, and protocol, and deleting security groups and NACLs when necessary. Our Service Lead implements these measures according to industry standards, ensuring secured Network Access Control for your cloud resources.",
+        "service_name": "Network Access Control",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7f9"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Public IP Service covers the allocation and conﬁguration of Public IP addresses for your cloud resources. This includes creating new Public IP addresses, associating them with speciﬁc resources and ensuring that they are properly conﬁgured for internet access. We also handle the disassociation and deletion of Public IP addresses when they are no longer needed. This ensures efﬁcient use of IP resources to maintain network security.",
+        "service_name": "Public IP",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf836"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Virtual Machine Service offers a tailored approach to deploy and manage Virtual Machines. We \nperform a range of actions including customization of processor sizes, vCore counts, and memory allocations to meet your specific workload requirements. With a diverse selection of operating systems and scalable storage solutions, we ensure your environment is equipped for optimal performance.",
+        "service_name": "Virtual Machine",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf891"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Virtual Network Routing Service covers the configuration of routing within your Virtual Network to \nensure efficient traffic flow and connectivity. This involves creating and managing route tables, defining \nroutes to direct traffic between subnets, and integrating with other networks or on-premise environments. We ensure that the routing configuration supports your network architecture, optimizes performance, and maintains security by controlling the flow of traffic within and outside the VNet.",
+        "service_name": "Virtual Network Routing (New Framework)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf81c"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 138,
+        "service_description": "Our Virtual Network Setup service covers the creation and configuration of a Virtual Network (VNet) within \nyour cloud environment. This involves specifying the IP address range, creating subnets, configuring necessary routing, security settings, and ensuring efficient resource allocation and network segmentation. Additionally, we set up DNS settings and integrate the VNet with other network services to ensure seamless \nconnectivity and optimal performance.",
+        "service_name": "Virtual Network Setup",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7e0"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 182,
+        "service_description": "The CDN Operations service at Zarthi encompasses a range of microservices designed to manage and optimize Content Delivery Networks (CDNs) across various platforms, including Azure CDN, AWS CloudFront, and Google Cloud CDN. This service includes provisioning and deprovisioning CDNs, configuring origins, compression, caching, and geo-filtering rules, as well as managing SSL certificates and custom domain mappings. Additionally, we handle CDN upgrades, purging cached content, and ensuring secure and efficient global content delivery. Our Service Leads ensure that each CDN operation is tailored to enhance performance, reduce latency, and provide a seamless user experience.",
+        "service_name": "CDN Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf6e2"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "\nAt Zarthi, our Service Leads will configure and manage AWS Storage Gateway, enabling seamless backup of on-premises data to the cloud, including configuring of gateways for VTL, file, and volume backups, implementing robust schedules, monitoring operations, and ensuring data security and integrity.",
+        "service_name": "AWS Storage Gateway Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf594"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Aurora Backup Operations to configure and optimize backup strategies, manage automated snapshots, and monitor recovery processes. This service ensures data integrity, high availability, and compliance with recovery objectives while minimizing downtime and data loss risks in dynamic cloud environments.",
+        "service_name": "Aurora Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf5e1"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop robust backup and recovery strategies for Azure Kubernetes Service (AKS) clusters. This includes designing and executing comprehensive backup plans, leveraging native AKS features and third-party tools to minimize data loss and ensure rapid application recovery in case of failures, cyberattacks, or accidental deletions.",
+        "service_name": "Azure Kubernetes Service (AKS) Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf5d8"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our service leads develop Blob Backup Operations to provide secure, scalable, and efficient backup solutions for Azure Blob Storage, configuring backup strategies, optimizing storage policies, and monitoring operations to deliver seamless recovery and maximum uptime. It addresses the need for comprehensive data protection, enabling businesses to safeguard unstructured data while ensuring compliance and disaster recovery readiness.",
+        "service_name": "Blob Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf576"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Cloud BigQuery Backup Operations to configure backup strategies, optimize policies, and monitor processes, ensuring data protection and compliance with recovery objectives. This service provides reliable, scalable, and secure backup solutions for data stored in Google Cloud BigQuery.",
+        "service_name": "Cloud BigQuery Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf605"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Cloud Firestore Backup Operations to ensure secure, scalable, and efficient backup solutions for Google Cloud Firestore, configuring tailored backup strategies, optimize storage management, and continuously monitor processes to maintain data integrity and meet recovery objectives. This Service is designed to protect critical application data, enhance business continuity, and provide seamless data recovery. ",
+        "service_name": "Cloud Firestore Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf58e"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Cloud Memorystore Backup Operations to deliver reliable and efficient backup solutions for Google Cloud Memorystore. This service includes designing tailored backup strategies, optimizing policies, and monitoring operations to ensure seamless data recovery and compliance with business continuity objectives. It enhances data protection and high availability, ensuring cached data remains secure and recoverable. ",
+        "service_name": "Cloud Memorystore Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf5ff"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our service leads develop Cloud SQL Backup Operations to provide comprehensive, reliable backup management for Google Cloud SQL instances, configuring backup strategies, optimizing storage policies, and monitoring operations to safeguard relational databases, ensuring availability and minimal downtime. This service supports robust data protection, seamless recovery, and compliance with business continuity standards. ",
+        "service_name": "Cloud SQL Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf570"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Cloud Spanner Backup Operations to provide comprehensive and resilient data protection for Google Cloud Spanner, configuring and optimizing backup strategies, monitoring processes, and implementing storage policies to enhance reliability, efficiency, and cost-effectiveness. This service safeguards relational databases with global consistency and scalability, enabling seamless data recovery and high availability.",
+        "service_name": "Cloud Spanner Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5c2"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our service leads develop Cloud Storage Backup Operations to provide robust and scalable backup solutions for Google Cloud Storage, configuring optimized backup strategies, implementing storage policies, and monitoring operations to safeguard your data assets and meet business continuity goals. This service ensures comprehensive data protection, enabling secure, efficient backup management and seamless recovery. ",
+        "service_name": "Cloud Storage Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf561"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop Compute Engine Backup Operations to ensure comprehensive and efficient backup solutions for Google Cloud Compute Engine (GCE) virtual machines. This service is designed to protect critical VM data and configurations, enabling secure, seamless recovery and minimizing downtime, configuring tailored backup strategies, optimizing resource usage, and monitoring performance to align with business continuity and disaster recovery goals.",
+        "service_name": "Compute Engine Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5ae"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle Database for PostgreSQL Backup Operations to leverage the Azure Backup service to enable, disable, and update backup configurations, ensuring that your PostgreSQL databases are protected and optimized for various backup strategies. This service \n ensures data integrity, security, and recovery capabilities. ",
+        "service_name": "Database for PostgreSQL Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf52b"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle DocumentDB Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations, working diligently to maintain data integrity, security, and availability to meet business continuity requirements. This service ensures that DocumentDB databases are protected, optimized for different backup strategies, and prepared for recovery scenarios.",
+        "service_name": "DocumentDB Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5b7"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle DynamoDB Backup Operations by utilizing the AWS Backup service to enable, disable, and update backup configurations, focusing on maintaining data integrity, security, and availability to support seamless business operations. This service ensures that DynamoDB tables are securely backed up, optimized for recovery, and aligned with organizational data management policies. ",
+        "service_name": "DynamoDB Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf57c"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle EBS Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon EBS and EFS volumes, ensuring data integrity, availability, and alignment with your organization’s backup policies. This service ensures that your Elastic Block Store (EBS) and Elastic File System (EFS) resources are securely backed up and optimized for data recovery and operational efficiency. ",
+        "service_name": "EBS Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf5f0"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle ElastiCache Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon ElastiCache, prioritizing the maintenance of data integrity, availability, and efficient resource management. This service ensures that caching environments are protected, optimized for recovery, and aligned with business continuity goals.",
+        "service_name": "ElastiCache Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf537"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle File Share Backup Operations by utilizing the Azure Backup service to enable, disable, and update backup configurations for file shares, committed to safeguarding data integrity, availability, and efficient backup management to meet operational requirements. This service ensures that file share data is securely backed up, optimized for recovery, and aligned with business continuity and compliance goals. ",
+        "service_name": "File Share Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf614"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle Google Kubernetes Engine (GKE) Backup Operations by leveraging the GCP Backup service to enable, disable, and update backup configurations for GKE clusters, while ensuring data availability, integrity, and compliance with evolving organizational requirements. This Service ensures that your Kubernetes clusters are securely backed up, optimized for disaster recovery, and aligned with operational continuity goals. ",
+        "service_name": "Google Kubernetes Engine Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf582"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle Neptune Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon Neptune databases, committed to delivering robust data protection, integrity, and availability for mission-critical operations. This service ensures your graph database workloads are securely backed up, optimized for recovery, and aligned with business continuity, compliance objectives.",
+        "service_name": "Neptune Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5ca"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle On-Premises Workloads Backup Operations by leveraging the Azure Backup service to enable, disable, and update backup configurations, focusing on maintaining data integrity, availability, and compliance with organizational backup policies. This service ensures that critical on-premises workloads are securely backed up, optimized for disaster recovery, and aligned with business continuity strategies. ",
+        "service_name": "On-premises workloads Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf534"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle RDS Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon RDS, focusing on maintaining data integrity, availability, and compliance with organizational backup policies. This service ensures that relational databases are securely backed up, optimized for disaster recovery, and aligned with business continuity strategies.",
+        "service_name": "RDS Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf549"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle Redshift Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon Redshift clusters, focusing on maintaining data integrity, availability, and compliance with organizational backup policies. This service ensures that data warehouses are securely backed up, optimized for disaster recovery, and aligned with business continuity strategies. ",
+        "service_name": "Redshift Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf543"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle S3 Backup Operations by leveraging the AWS Backup service to enable, disable, and update backup configurations for Amazon S3, focusing on maintaining data integrity, availability, and compliance with organizational backup policies. This service ensures that object storage data is securely backed up, optimized for disaster recovery, and aligned with business continuity strategies.",
+        "service_name": "S3 Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf56a"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads handle SAP HANA Backup Operations by leveraging the Azure Backup service to enable, disable, and update backup configurations for SAP HANA databases running in virtual machines (VMs), focusing on maintaining data integrity, availability, and compliance with organizational backup policies. This service ensures that critical enterprise data is securely backed up, optimized for disaster recovery, and aligned with business continuity strategies.",
+        "service_name": "SAP HANA Backup Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5a6"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 200,
+        "service_description": "At Zarthi, our Service Leads develop SQL Server Backup Operations, ensuring secure, scalable, and compliant backup solutions for SQL Server instances running in Azure Virtual Machines (VMs). This service focuses on configuring and managing full, incremental, differential, and snapshot backups using Azure Backup Service to safeguard critical data and ensure seamless recovery.",
+        "service_name": "SQL Server Backup Operation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf59a"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 275,
+        "service_description": "At Zarthi, DNS Operations Service manages and optimizes DNS configurations across platforms like AWS Route 53, Azure DNS, and Google Cloud DNS. This Service includes provisioning and configuring DNS zones, adding, updating, or deleting DNS records, and setting up health checks and failover routing. It also involves migrating DNS configurations and domain ownership from providers like GoDaddy, AWS, and Azure to the desired DNS platform, ensuring minimal downtime. This Service also includes updating routing policies to optimize traffic based on latency and geolocation. Deprovisioning services ensure the clean removal of DNS configurations and domain release.",
+        "service_name": "DNS Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921a9d2dc988a6cfbf3f2"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 375,
+        "service_description": "At Zarthi, Network Load Balancer Operations Service manages and optimizes network load balancing across platforms like AWS, Azure, and GCP. This Service includes setting up and configuring network load balancers, creating and updating listener rules, target groups, and health checks. It also involves migrating load balancer configurations from NGINX and other cloud providers to AWS, Azure, and GCP Network Load Balancers, ensuring minimal downtime and seamless transitions. Additionally, this Service integrates network load balancers with other cloud services like EC2, Auto Scaling Groups, and Managed Instance Groups for enhanced capabilities. Deprovisioning services ensure the clean removal of load balancer settings and resources.",
+        "service_name": "Network Load Balancer Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921a9d2dc988a6cfbf386"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "At Zarthi, our Service Leads analyze compute usage trends to identify opportunities for cost savings. By recommending committed use discounts, helping organizations optimize resource utilization, reduce expenses, and maximize the efficiency of their long-term compute investments.",
+        "service_name": "Compute Committed use discounts Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf657"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "At Zarthi, we offer long-term savings solutions for compute\nand container services, leveraging cost-saving models like Reserved Instances and Savings Plans. Our analysis-driven approach ensures significant cost reductions for predictable workloads with flexible one- or three-year commitments.",
+        "service_name": "Compute RI / Savings Plan Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf687"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "The Database Rightsizing Recommendation Service at Zarthi provides expert guidance on optimizing database resources. Our Service Leads analyze your database usage and recommend rightsizing strategies to ensure cost efficiency and optimal performance.",
+        "service_name": "Compute Rightsizing Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf68f"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "At Zarthi, our Service Leads configure Database Committed Use Discounts Recommendations to help businesses achieve significant cost savings by committing to long-term database resource usage, collaborating with clients to align database performance and cost-efficiency with their long-term business goals. This service analyzes historical database utilization, predicts future demands, and identifies the best discount plans to ensure optimized spending. ",
+        "service_name": "Database Committed use discounts Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf654"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "The Database RI / Savings Plan Recommendation Service at Zarthi provides expert guidance on leveraging long-term savings for database resources. Our Service Leads analyze your usage patterns and recommend reserved instances or savings plans to optimize costs and ensure efficient resource utilization.",
+        "service_name": "Database RI / Savings Plan Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf63b"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "The Database Rightsizing Recommendation Service at Zarthi provides expert guidance on optimizing database resources. Our Service Leads analyze your database usage and recommend rightsizing strategies to ensure cost efficiency and optimal performance.",
+        "service_name": "Database Rightsizing Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf623"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "At Zarthi, our Service Leads handle Database Scheduling Recommendations to help organizations optimize database operations by automating resource availability based on workload patterns. This service ensures databases are provisioned and de-provisioned efficiently, minimizing idle time and reducing operational costs while maintaining optimal performance for critical applications.",
+        "service_name": "Database Scheduling Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf651"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 400,
+        "service_description": "At Zarthi, our Service Leads provide tailored recommendations to optimize cloud storage resources across AWS, Azure, and GCP, by analyzing storage usage patterns and performance metrics, it identifies inefficiencies and offers actionable insights for cost-effective configurations, from block and file storage to object storage solutions. This service ensures optimal alignment with workload demands, enhancing scalability, performance, and budget efficiency.",
+        "service_name": "Storage Rightsizing Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf66f"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 425,
+        "service_description": "",
+        "service_name": "Network Gateway Firewall Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9243cd2dc988a6cfbf90f"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 550,
+        "service_description": "At Zarthi, this Service manages and optimizes load balancing across platforms like AWS, Azure, and GCP. The Service includes setting up and configuring load balancers, creating and updating listener rules, target groups, and backend pools, and enabling header modification for better traffic control and security. It also involves migrating load balancer configurations from NGINX and other cloud providers to AWS, Azure, and GCP Application Load Balancers, ensuring minimal downtime and seamless transitions. Additionally, the service integrates load balancers with other cloud services like EC2, Auto Scaling Groups, and WAF for enhanced capabilities. Deprovisioning services ensure the clean removal of load balancer settings and resources.",
+        "service_name": "Application Load Balancer Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921a9d2dc988a6cfbf3fe"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 550,
+        "service_description": "At Zarthi, Email Notification Operations Service manages and optimizes email communication across platforms like SendGrid, AWS SES, and Mailgun. This Service includes setting up and configuring email services, such as creating API keys, verifying domains, configuring email templates, and setting up sender authentication. It also involves updating configurations to reflect changes in infrastructure, ensuring that email functionalities are seamlessly migrated between services like Mailtrap, SendGrid, AWS SES, and Mailgun with minimal downtime. Additionally, the Service integrates email functionalities with CRM systems like Salesforce and e-commerce platforms like Shopify. Finally, it ensures the clean removal of email settings and resources when deprovisioning services. Service Leads oversee these operations to enhance performance, ensure secure and efficient email delivery, and provide a seamless user experience.",
+        "service_name": "Email Notification Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921a9d2dc988a6cfbf39e"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 550,
+        "service_description": "Our Object Storage Service, with our in-house experts, provides tailored solutions to optimize your cloud \ninfrastructure. We offer a range of operations including object management, bucket control, security, and static web hosting. By adhering to industry best practices, we make sure your environment remains secure, \neffective, and fully operational.",
+        "service_name": "Object Storage",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf83f"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 550,
+        "service_description": "At Zarthi, our WAF Operations service streamlines the management and optimization of Web Application Firewall (WAF) configurations across leading cloud platforms, including Azure WAF, AWS WAF, and Google Cloud Armor. Leveraging advanced security frameworks, we set up and fine-tune WAF policies, rules, and custom configurations to safeguard web applications against threats like SQL injection and cross-site scripting (XSS). Our service also facilitates seamless WAF migration across platforms, ensuring minimal downtime and data integrity. Additionally, we integrate WAF with cloud services such as Application Gateway, Front Door, and CDN to enhance security and performance. Deprovisioning services ensure the secure and efficient removal of WAF configurations when required.",
+        "service_name": "WAF Operations",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921a9d2dc988a6cfbf3ce"
+    },
+    {
+        "practice_name": "DevOps",
+        "practice_status": "Internal & External",
+        "price": 681,
+        "service_description": "Under this Service, our Service Leads oversee Azure Pipeline operations, facilitating efficient CI/CD processes for cloud and hybrid environments. This service provides automated build and deployment solutions, integrating seamlessly with Microsoft Azure services to ensure high availability and reliability in software delivery.",
+        "service_name": "Azure Pipeline Services",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf331"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 800,
+        "service_description": "At Zarthi, this service delivers targeted recommendations to optimize cache configurations across cloud environments like AWS, Azure, and GCP, by evaluating usage patterns and performance data, it identifies underutilized or overprovisioned resources, ensuring cost-effective and efficient caching solutions.",
+        "service_name": "Cache Rightsizing Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf66a"
+    },
+    {
+        "practice_name": "Site Reliability",
+        "practice_status": "Internal & External",
+        "price": 800,
+        "service_description": "At Zarthi, our Service Leads handle Compute Scheduling Recommendations to help organizations optimize their cloud operations by automating resource availability based on workload patterns. They leverage scheduling strategies to align cloud resource usage with business objectives, minimizing idle time and wastage. This service ensures that cloud resources are provisioned only when needed, reducing costs while maintaining performance and operational efficiency.",
+        "service_name": "Compute Scheduling Recommendation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9229ed2dc988a6cfbf675"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 1315,
+        "service_description": "In this Service, our Service Leads provide comprehensive QA support to enhance software reliability, reduce defects, and streamline testing processes.",
+        "service_name": "Quality Assurance Support (QAS)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf2e1"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 1350,
+        "service_description": "At Zarthi, our Messaging API Service offers a comprehensive suite of Microservices designed to ensure \nefficient and reliable message communication across various platforms and protocols. We provide solutions using Core Java, .NET Framework, .NET Core, Python (Django and FastAPI), and C/C++ for ActiveMQ, MQTT, and Kafka. Our Service Leads optimize each Microservice for performance, reliability, and scalability, \ncatering to enterprise, IoT, and high-throughput data streaming needs. This service ensures seamless and \nsecure operations, tailored to meet the specific requirements of your business.",
+        "service_name": "Messaging API",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf77b"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 1402,
+        "service_description": "At Zarthi, our Service Leads handle Bug as a Service (BaaS) to help organizations efficiently track, manage, and resolve software and infrastructure issues, focusing on streamlining bug identification, reporting, and resolution to enhance overall system reliability and user experience. This service ensures that bugs are categorized, prioritized, and addressed systematically, improving software quality and operational stability.",
+        "service_name": "Bug Service",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf48c"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": 1524,
+        "service_description": "Data analytics service aims to extract meaningful insights from raw data to inform decision-making, improve business outcomes, and optimize processes. Data analysis helps check overall organization productivity, and employee performance and gives a holistic view of the complete organization.",
+        "service_name": "Data Analytics ",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8b4"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 1700,
+        "service_description": "",
+        "service_name": "Microsoft Defender Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8d6"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 1800,
+        "service_description": "At Zarthi, the DB Connector Service offers seamless, language-specific interfaces for efficient, secure, and \nscalable database interactions. Designed for compatibility across varied tech stacks, this service simplifies data connectivity, enabling applications to communicate effectively with databases while supporting diverse frameworks like Java, Python, C, C++, and .NET. Ideal for customers seeking high-performance data access and management, the DB Connector Service enhances application reliability and data handling for \nboth enterprise and specialized applications.",
+        "service_name": "Develop DB Connector Interface",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf750"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 1800,
+        "service_description": "At Zarthi, our TCP/IP Interface Service provides a comprehensive suite of Microservices designed to facilitate efficient and reliable network communication across various platforms and programming languages. We offer solutions using Core Java, Java Spring MVC, Java Spring Boot, Python Core, C, C++, .NET Core, and .NET Framework. Whether you require robust enterprise-level communication or efficient network interfaces for diverse applications, our TCP/IP Interface Service delivers the solutions you need to maintain smooth and effective connectivity",
+        "service_name": "Develop TCP/IP Interface",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf72b"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "AWS BOM Service (Temp) (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8b1"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "AWS Event bridge Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8df"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "The aim is to effectively implement Azure App Service to build and scale web apps, providing a scalable, secure, and resilient web application hosting platform, provisioning high availability and performance to optimize the development and deployment of web applications in the cloud",
+        "service_name": "App Service (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8ad"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "Azure BOM Services(Temp) (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8af"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "Connectivity Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8de"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "Domain Name System Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9243cd2dc988a6cfbf918"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 2200,
+        "service_description": "",
+        "service_name": "IAM Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8e7"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "",
+        "service_name": "Application Support (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8b0"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "At Zarthi, our REST API service enables the creation, deployment, and management of RESTful APIs across various development frameworks and languages. By providing flexible, language-specific Microservices, this service helps developers build robust, scalable, and efficient API solutions that facilitate seamless communication between applications and backend systems.",
+        "service_name": "Develop REST API",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf753"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "SOAP Web Services enable the creation, deployment, and management of SOAP-based APIs across multiple development frameworks and languages. Designed as a series of flexible, language-specific Microservices, it helps developers build robust, reliable, and secure SOAP solutions that support XML-based messaging and structured communication between applications and backend systems.",
+        "service_name": "Develop SOAP Web Services",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf741"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "Develop a Cache API Client Service offers an exquisite suite of Microservices which improves application performance by providing a high-speed, scalable memory caching solution. The Cache API Client will be integrated with cache databases like Redis, DynamoDB and MemCached using different technologies like Spring Framework, .NET Core/Framework, Core Java etc. This service will enable clients to store, retrieve, update, and delete data, optimizing application performance by reducing database load and ensuring faster data access on the client side of the application.",
+        "service_name": "Develop a Cache API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4c7"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "At Zarthi, Our Google Cloud Storage API Client Development enables seamless integration with GCS for efficient data storage and retrieval. Our Service Leads handle robust clients supporting file uploads, downloads, metadata management, and bucket operations, ensuring secure and streamlined cloud operations.",
+        "service_name": "Develop a Google Cloud Storage API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4c3"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "At Zarthi, our Service Leads develop AWS S3 API clients as a service for secure and efficient cloud storage management, enabling seamless operations such as uploading, downloading, and bucket handling. It ensures secure authentication, robust error handling with retries, and optimized multipart uploads, delivering high-speed, reliable, and streamlined storage solutions tailored to client needs.",
+        "service_name": "Develop an AWS S3 API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4da"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2250,
+        "service_description": "At Zarthi, our Service Leads develop Azure Blob Storage API Clients to enable seamless interaction with Azure Blob Storage services for secure, efficient, and scalable data storage solutions, using the Azure SDK to create robust, tailored API clients that meet enterprise-grade requirements for performance, security, and flexibility. This service ensures that businesses can store, retrieve, and manage unstructured data with ease",
+        "service_name": "Develop an Azure Blob Storage API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4a4"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": 2625,
+        "service_description": "The objective of Zoho Forms service is to streamline the creation, distribution, and management of online forms, enabling businesses and individuals to efficiently collect, organize, and analyze data for various purposes. Zoho Forms is designed to simplify data collection processes, enhance productivity, and improve data-driven decision-making.",
+        "service_name": "Zoho Forms",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7a3"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 2629,
+        "service_description": "Under this Service, our Service Lead Objective is to ensure that incoming data is correctly collected, processed, and stored while maintaining consistency, accuracy, and completeness. ",
+        "service_name": "Data Ingestion Validation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf2e9"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2700,
+        "service_description": "At Zarthi, our Service Leads develop custom REST API clients for efficient communication with external and internal systems, including request processing, authentication (OAuth, API keys), prioritising security aspects, performance, error handling, and response parsing for reliability and scalability. This service ensures seamless data exchange, automation, and system integration across platforms.",
+        "service_name": "Develop a Rest API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4fa"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2700,
+        "service_description": "At Zarthi, our Service Leads develop SFTP API Client Microservices to provide secure, seamless, and reliable file transfer solutions for businesses, focusing on building robust and scalable clients tailored to your specific operational requirements, ensuring secure data management and efficient transfer processes. This service enables organizations to integrate SFTP functionality into their workflows, ensuring the safe exchange of data between servers and applications. ",
+        "service_name": "Develop a SFTP API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf49b"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2700,
+        "service_description": "At Zarthi, our Service Leads develop SMTP API Client to provide seamless email-sending capabilities for businesses, focusing on creating robust and scalable clients, tailored to your operational requirements, while ensuring secure authentication and compliance with email protocols. This service enables organizations to integrate SMTP functionality into their applications, ensuring reliable and efficient email delivery.",
+        "service_name": "Develop a SMTP API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf498"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 2700,
+        "service_description": "At Zarthi, our SOAP Web Service API Client Development guarantees seamless, secure, and reliable integration with SOAP-based APIs. We excel in crafting efficient clients tailored to specific WSDL specifications, ensuring robust and structured communication, enterprise-grade error handling, advanced security configurations, and detailed logging, we make application interactions smooth, compliant, and hassle-free.",
+        "service_name": "Develop a SOAP WS API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf4ca"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 2800,
+        "service_description": "Our Service Test Case Documentation service provides detailed, professional documentation and updates for test cases. It includes writing detailed Test Steps, expected results and description for the test case aligning with evolving service requirements. This enhances test execution efficiency and ensures high-quality testing standards.",
+        "service_name": "Service Test Case Documentation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5a1"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 3150,
+        "service_description": "At Zarthi, our Service Leads develop Time Series API Client to enable businesses efficiently store, retrieve, and analyze time-stamped data, focusing on creating robust and scalable API clients tailored to your operational needs, ensuring secure and efficient time series data management. This service facilitates seamless integration with time series databases or platforms, ensuring high-performance data handling for applications like monitoring, forecasting, and trend analysis. ",
+        "service_name": "Develop a TimeSeries API Client",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d921fed2dc988a6cfbf46f"
+    },
+    {
+        "practice_name": "Cloud Ops",
+        "practice_status": "Internal & External",
+        "price": 3300,
+        "service_description": "",
+        "service_name": "AWS Elastic Kubernetes Services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8b6"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 3750,
+        "service_description": "",
+        "service_name": "Quality Control",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9243cd2dc988a6cfbf940"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": 4200,
+        "service_description": "",
+        "service_name": "Tool Amendment (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8bd"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 4500,
+        "service_description": "At Zarthi, our C and C++ Development Services deliver robust, object-oriented solutions with a focus on scalability, performance, and precision. We specialize in developing complex logic, system integrations, and resource management for high-demand applications, while ensuring secure, efficient, and adaptable solutions. Our expertise includes version control, updates, and performance optimization, tailored to your specific business needs.",
+        "service_name": "C & C++",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7a6"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 4500,
+        "service_description": "At Zarthi, our Java Development service focuses on delivering high-quality, scalable, and efficient solutions. We leverage core Java and popular frameworks like Spring MVC and Spring Boot to create custom business logic, ensuring your applications run smoothly and meet your specific requirements. Our Service Leads handle everything from building essential backend logic to integrating complex systems, so you can rely on a seamless and reliable Java application that grows with your needs.",
+        "service_name": "Java",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7ae"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 4500,
+        "service_description": "Our Python Service is designed to deliver high-performance applications, enhance security, and ensure seamless cloud integration. We manage tasks such as custom logic development, API creation, automated workflows, and performance optimization to keep your applications running efficiently. Additionally, we handle version control, implement patches, and ensure timely updates to meet your evolving requirements. Our Service Leads ensure your applications are secure, scalable, and always ready to support smooth operational continuity.",
+        "service_name": "Python",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7ab"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 6300,
+        "service_description": "Our .NET Development Service Leads specialize in building scalable, secure applications tailored to your \nbusiness needs. We handle custom application development, API integration, and database connectivity, ensuring consistent performance and operational reliability based on customer needs.",
+        "service_name": ".NET",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92316d2dc988a6cfbf7a2"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 7700,
+        "service_description": "",
+        "service_name": "Non-Technical Testing (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8e1"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 8763,
+        "service_description": "In this Service, our Service Lead perform API automation testing service to ensures seamless functionality with dynamic, functional, integration, error, and regression testing, delivering reliable and high-performing APIs.",
+        "service_name": "API Automation Testing",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf2ef"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 10516,
+        "service_description": "In this Service, our Service Lead perform Mobile Application Automation Testing service to enhance accuracy, efficiency, and scalability across various devices and platforms.",
+        "service_name": "Mobile Application Automation Testing\t",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92162d2dc988a6cfbf2ec"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 11400,
+        "service_description": "Our Service Test Case Identification ensures comprehensive test coverage by identifying test cases, designing and developing test scenarios, and mapping them to service requirements. We analyze specifications, create functional and edge case tests, and ensure thorough validation. This service enhances service reliability, streamlines testing, and accelerates bug detection, leading to improved quality and faster deployment.",
+        "service_name": "Service Test Case Identification",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d92252d2dc988a6cfbf5c7"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": 15749,
+        "service_description": "",
+        "service_name": "Tool Implementation (Temporary) (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf8b5"
+    },
+    {
+        "practice_name": "Development",
+        "practice_status": "Internal & External",
+        "price": 17601,
+        "service_description": "",
+        "service_name": "Screen Development (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d923e9d2dc988a6cfbf85f"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": 30452,
+        "service_description": "",
+        "service_name": "Release Lifecycle services (OLD)",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d9243cd2dc988a6cfbf93f"
+    },
+    {
+        "practice_name": "Delivery",
+        "practice_status": "Internal & External",
+        "price": null,
+        "service_description": "",
+        "service_name": "Service Growth Management (MS)",
+        "service_status": "Active",
+        "service_type": "Management Service",
+        "id": "67d9229ed2dc988a6cfbf64b"
+    },
+    {
+        "practice_name": "Quality Assurance",
+        "practice_status": "Internal & External",
+        "price": null,
+        "service_description": "This Service aims to create Test cases for the all the Type of service i.e. Professional Service, Management Service, Concierge Service etc.",
+        "service_name": "Service Test Case Creation",
+        "service_status": "Active",
+        "service_type": "Professional Services",
+        "id": "67d922dbd2dc988a6cfbf6e0"
+    },
+    {
+        "practice_name": "Delivery",
+        "practice_status": "Internal & External",
+        "price": null,
+        "service_description": "This is for Solution Service Type",
+        "service_name": "Solution Services",
+        "service_status": "Active",
+        "service_type": "Solution Service",
+        "id": "67d922dbd2dc988a6cfbf6ac"
+    },
+    {
+        "practice_name": "Technology",
+        "practice_status": "Internal & External",
+        "price": null,
+        "service_description": "",
+        "service_name": "Test Service (SG Concept)",
+        "service_status": "Active",
+        "service_type": "",
+        "id": "67d92252d2dc988a6cfbf5c8"
+    }
+]
