@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Filter & Sort</title>
+<style>
+  .filter-sort-container {
+    position: relative;
+    width: 300px;
+    font-family: sans-serif;
+  }
+
+  .filter-button {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .filter-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: none;
+    z-index: 10;
+  }
+
+  .filter-options.show {
+    display: block;
+  }
+
+  .filter-options h3 {
+    padding: 10px;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .filter-options h3 button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .filter-options ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .filter-options li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+  }
+
+  .filter-options li:hover {
+    background-color: #f9f9f9;
+  }
+</style>
+</head>
+<body>
+
+<div class="filter-sort-container">
+  <div class="filter-button" id="filterButton">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-filter"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+  </div>
+  <div class="filter-options" id="filterOptions">
+    <h3>
+      Filter & Sort
+      <button id="closeButton">✕</button>
+    </h3>
+    <ul>
+      <li data-sort="name-asc">Service Name : (A-z)</li>
+      <li data-sort="name-desc">Service Name : (Z-a)</li>
+      <li data-sort="price-high">Price : High to Low</li>
+      <li data-sort="price-low">Price : Low to High</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  const filterButton = document.getElementById('filterButton');
+  const filterOptions = document.getElementById('filterOptions');
+  const closeButton = document.getElementById('closeButton');
+
+  filterButton.addEventListener('click', () => {
+    filterOptions.classList.toggle('show');
+  });
+
+  closeButton.addEventListener('click', () => {
+    filterOptions.classList.remove('show');
+  });
+
+  // Example of handling sort selection (you'll need to adapt this to your data)
+  filterOptions.addEventListener('click', (event) => {
+    if (event.target.tagName === 'LI') {
+      const sortValue = event.target.dataset.sort;
+      console.log('Sort by:', sortValue);
+
+      // Add your logic here to sort your data based on the selected value
+      // For example:
+      // if (sortValue === 'name-asc') { ... sort by name ascending ... }
+      // else if (sortValue === 'name-desc') { ... sort by name descending ... }
+      // else if (sortValue === 'price-high') { ... sort by price high to low ... }
+      // else if (sortValue === 'price-low') { ... sort by price low to high ... }
+
+      filterOptions.classList.remove('show');
+    }
+  });
+</script>
+
+</body>
+</html>
